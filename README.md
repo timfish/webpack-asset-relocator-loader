@@ -1,7 +1,7 @@
 # @timfish/webpack-asset-relocator-loader
 
 This loader wraps `@vercel/webpack-asset-relocator-loader@1.4.1` and modifies
-loading paths so that they are compatible with **Electron Forge**.
+loading paths so that they are compatible with [**Electron Forge**](https://www.electronforge.io/config/plugins/webpack).
 
 It works in development and production for both main and renderer processes.
 
