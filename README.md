@@ -1,0 +1,1 @@
+# webpack-asset-relocator-loader
