@@ -1,0 +1,22 @@
+{
+  "name": "@timfish/webpack-asset-relocator-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test-app && npm i && npm run start && npm run package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfish/webpack-asset-relocator-loader.git"
+  },
+  "author": "Tim Fish <tim@timfish.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timfish/webpack-asset-relocator-loader/issues"
+  },
+  "homepage": "https://github.com/timfish/webpack-asset-relocator-loader#readme",
+  "dependencies": {
+    "@vercel/webpack-asset-relocator-loader": "1.4.1"
+  }
+}
